@@ -1,4 +1,4 @@
-R code to download all early day motions from the [UK House of Commons](http://www.parliament.uk/), and plot their cosponsorship networks.
+R code to download all [early day motions](http://www.parliament.uk/edm) from the [UK House of Commons](http://www.parliament.uk/business/commons/), and plot their cosponsorship networks.
 
 Run `make.r` to replicate after checking the dependencies at the top of the script. You will probably have the time to drink at least twenty cups of tea before the first plot shows up: over 37,000 early motions were introduced since 1989, and UK Members of Parliament cosponsor them a lot.
 
