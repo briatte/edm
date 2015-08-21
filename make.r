@@ -31,5 +31,6 @@ colors = c(
   "IND" = "#AAAAAA"    # light grey
 )
 
+source("00-functions.r")
 source("01-data.r")
 source("02-build.r")
